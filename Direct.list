@@ -1,0 +1,23 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,api.myip.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,digital8.top
+IP-CIDR,183.206.0.0/15
+IP-CIDR,203.160.94.124/32
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-KEYWORD,myqnapcloud
