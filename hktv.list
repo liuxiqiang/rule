@@ -35,6 +35,11 @@ DOMAIN-SUFFIX,iill.top
 IP-CIDR,60.246.171.122/32
 IP-CIDR,110.235.82.60/32
 IP-CIDR,146.56.153.245/32
+DOMAIN-SUFFIX,hoytv-live-stream.hoy.tv
+DOMAIN-SUFFIX,epg.iill.top
+DOMAIN-SUFFIX,edge.media.seaovers.live
+DOMAIN-SUFFIX,e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com
+
 
 
 
